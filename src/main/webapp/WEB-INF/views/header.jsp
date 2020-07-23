@@ -53,7 +53,7 @@
                                             <a href="#">Secret Mountain</a>
                                         </li>
                                         <li>
-                                            <a href="#">Caloriepad 1</a>
+                                            <a href="#">Caloriepad 2</a>
                                         </li>
                                     </ul>
                                 </li>
