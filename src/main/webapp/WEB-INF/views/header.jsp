@@ -54,8 +54,6 @@
                                         </li>
                                         <li>
                                             <a href="#">Caloriepad 1</a>
-                                        </li><li>
-                                            <a href="#">Caloriepad 2</a>
                                         </li>
                                     </ul>
                                 </li>
